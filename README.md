@@ -1,7 +1,3 @@
-# lfc
-github community analysis
+# Learning from Contributions
 
-
-
-
-commit test 1 2 3
+Analysis of GitHub Communites with Social Networking and Sentiment Analysis
